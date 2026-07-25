@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://full51242-cmyk.github.io/ai-resume-scanner-95/sitemap.xml
